@@ -16,3 +16,6 @@
 
 >**Лишь тот способен добрым быть, кому пришлось от злости выть.**
 
+# Картинки #
+![картинка1](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
+![картинка2](1_sSi5LWkfxZHNVuDLs2j2ug.png)
