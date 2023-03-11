@@ -19,3 +19,8 @@
 # Картинки #
 ![картинка1](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
 ![картинка2](1_sSi5LWkfxZHNVuDLs2j2ug.png)
+
+# Ссылки #
+[ссылка1](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-18)
+
+[яндекс](https://yandex.ru/ "Переход на яндекс")
