@@ -21,6 +21,6 @@
 ![картинка2](1_sSi5LWkfxZHNVuDLs2j2ug.png)
 
 # Ссылки #
-[ссылка1](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-18)
+[ссылка1](https://www.avito.ru/abakan/koshki?q=%D0%BA%D0%BE%D1%82%D1%8F%D1%82%D0%B0)
 
 [яндекс](https://yandex.ru/ "Переход на яндекс")
